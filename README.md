@@ -35,14 +35,22 @@ Used heatmap to check relationships (found strong correlation between retail sal
 
 # Key Findings
 Top Supplier: 🏆 Republic National Distributing Co.
+
 Most Sold Product Type: 🍷 Wine (61.0%) followed by 🥃 Liquor (21.8%).
+
 Sales Insights:
 Highest single-month sales: 📅 July 2020 (70.2% warehouse sales).
+
 Most profitable year: 📊 2019 had the highest total sales.
+
 Total Sales:
+
 Retail Sales: $2.16M
+
 Retail Transfers: $2.13M
+
 Warehouse Sales: $7.78M
+
 Data Anomalies: 716 entries had negative warehouse sales, likely due to returns or adjustments.
 # Dataset Overview
 The dataset includes time-based sales records (Year, Month), supplier details, item descriptions, product categories (Wine, Liquor, Beer, etc.), and sales figures (Retail Sales, Retail Transfers, Warehouse Sales). The dataset helps analyze sales trends, supplier relationships, and inventory adjustments.
