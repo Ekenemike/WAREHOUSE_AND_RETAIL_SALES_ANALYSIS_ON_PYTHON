@@ -15,3 +15,8 @@ Warehouse Sales: $7.78M
 Data Anomalies: 716 entries had negative warehouse sales, likely due to returns or adjustments.
 # Dataset Overview
 The dataset includes time-based sales records (Year, Month), supplier details, item descriptions, product categories (Wine, Liquor, Beer, etc.), and sales figures (Retail Sales, Retail Transfers, Warehouse Sales). The dataset helps analyze sales trends, supplier relationships, and inventory adjustments.
+# Data Cleaning & Transformation
+Missing Values: Supplier names were missing for some rows and replaced with "Unknown".
+Negative Sales: Identified and analyzed for potential returns or corrections.
+Duplicates: No duplicate rows detected.
+
