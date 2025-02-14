@@ -60,8 +60,11 @@ Negative Sales: Identified and analyzed for potential returns or corrections.
 Duplicates: No duplicate rows detected.
 #  Exploratory Data Analysis (EDA)
 Top Suppliers Analysis: Found leading suppliers using value_counts().
+
 Monthly Sales Trends: Identified peak sales months with groupby().
+
 Sales Distribution: Right-skewed, indicating most transactions are small, with a few high-value ones.
+
 Correlation Analysis: Found strong relation between retail sales & transfers but weak relation with warehouse sales.
 #  Visualizations
 📊 Pie Chart: Sales distribution by product type.
