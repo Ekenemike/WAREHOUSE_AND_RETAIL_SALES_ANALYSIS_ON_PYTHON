@@ -24,7 +24,6 @@ What’s the distribution of retail sales?
 Created a histogram to visualize sales frequency (found right-skewed distribution).
 What’s the correlation between sales metrics?
 Used heatmap to check relationships (found strong correlation between retail sales & transfers).
-
 # Key Findings
 Top Supplier: 🏆 Republic National Distributing Co.
 Most Sold Product Type: 🍷 Wine (61.0%) followed by 🥃 Liquor (21.8%).
@@ -66,4 +65,4 @@ Deep dive into negative sales to confirm impact on revenue.
 Optimize supplier relationships for cost efficiency.
 Develop targeted marketing campaigns for high-selling categories.
 # View Full Report
-https://github.com/Ekenemike/WAREHOUSE_AND_RETAIL_SALES_ANALYSIS_ON_PYTHON/blob/main/EDA%20Project%20%E2%80%93%20Sales%20Analysis%20(Data%20Analysis%20with%20Python)1.pdf
+- <a href"https://github.com/Ekenemike/WAREHOUSE_AND_RETAIL_SALES_ANALYSIS_ON_PYTHON/blob/main/EDA%20Project%20%E2%80%93%20Sales%20Analysis%20(Data%20Analysis%20with%20Python)1.pd">Dataset</a>
