@@ -21,16 +21,16 @@ Identified most frequent suppliers using value_counts().
 5. What are the most common item types?
 Examined item category distribution (Wine, Liquor, Beer, etc.).
 
-What are the total sales by category?
+6. What are the total sales by category?
 Summed up retail sales, transfers, and warehouse sales.
 
-How do sales vary by month?
+7. How do sales vary by month?
 Used groupby(['YEAR', 'MONTH']) to analyze sales trends.
 
-What’s the distribution of retail sales?
+8. What’s the distribution of retail sales?
 Created a histogram to visualize sales frequency (found right-skewed distribution).
 
-What’s the correlation between sales metrics?
+9. What’s the correlation between sales metrics?
 Used heatmap to check relationships (found strong correlation between retail sales & transfers).
 
 # Key Findings
