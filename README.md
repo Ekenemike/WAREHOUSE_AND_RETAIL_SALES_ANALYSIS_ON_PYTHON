@@ -4,6 +4,27 @@ The dataset tracks sales and inventory transactions for beverages(liquor, wine, 
 This project explores sales performance and inventory transactions across retail and warehouse channels using Exploratory Data Analysis (EDA). The dataset, sourced from data.gov, contains 307,645 rows and covers sales data for wine, liquor, beer, and related supplies.
 # Data Used
 - <a href="https://github.com/Ekenemike/WAREHOUSE_AND_RETAIL_SALES_ANALYSIS_ON_PYTHON/blob/main/Warehouse_and_Retail_Sales.csv.zip">Dataset</a>
+# Key EDA Questions
+During this analysis, the following questions were asked and answered:
+What does the dataset look like?
+Used .head(), .info(), .describe(), .shape() to inspect data structure.
+Are there missing values?
+Found missing values in the "SUPPLIER" column, replaced with "Unknown".
+Are there negative sales values?
+716 entries in the warehouse sales column were negative, indicating returns or adjustments.
+Who are the top suppliers?
+Identified most frequent suppliers using value_counts().
+What are the most common item types?
+Examined item category distribution (Wine, Liquor, Beer, etc.).
+What are the total sales by category?
+Summed up retail sales, transfers, and warehouse sales.
+How do sales vary by month?
+Used groupby(['YEAR', 'MONTH']) to analyze sales trends.
+What’s the distribution of retail sales?
+Created a histogram to visualize sales frequency (found right-skewed distribution).
+What’s the correlation between sales metrics?
+Used heatmap to check relationships (found strong correlation between retail sales & transfers).
+
 # Key Findings
 Top Supplier: 🏆 Republic National Distributing Co.
 Most Sold Product Type: 🍷 Wine (61.0%) followed by 🥃 Liquor (21.8%).
