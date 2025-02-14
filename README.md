@@ -68,19 +68,29 @@ Sales Distribution: Right-skewed, indicating most transactions are small, with a
 Correlation Analysis: Found strong relation between retail sales & transfers but weak relation with warehouse sales.
 #  Visualizations
 📊 Pie Chart: Sales distribution by product type.
+
 📉 Histogram: Retail sales distribution (right-skewed).
+
 📊 Bar Chart: Top suppliers with most transactions.
+
 📈 Line Chart: Sales trends over time, highlighting seasonal spikes.
+
 🗺️ Heatmap: Strong correlation between retail sales & transfers.
 # Business Insights & Recommendations
 ✅ Warehouse Sales Drive Revenue – Suggests focus on bulk sales.
+
 ✅ Investigate Negative Sales – Determine reasons for returns or adjustments.
+
 ✅ Supplier Optimization – Analyze performance of top suppliers to improve inventory management.
+
 ✅ Promotional Strategies – Explore discounts and campaigns for wine & liquor to maximize revenue.
 # Technologies Used
 Python 🐍 (pandas, NumPy) – Data Manipulation
+
 Matplotlib & Seaborn 📊 – Data Visualization
 # Next Steps
 Deep dive into negative sales to confirm impact on revenue.
+
 Optimize supplier relationships for cost efficiency.
+
 Develop targeted marketing campaigns for high-selling categories.
