@@ -20,6 +20,7 @@ Identified most frequent suppliers using value_counts().
 
 5. What are the most common item types?
 Examined item category distribution (Wine, Liquor, Beer, etc.).
+
 What are the total sales by category?
 Summed up retail sales, transfers, and warehouse sales.
 
