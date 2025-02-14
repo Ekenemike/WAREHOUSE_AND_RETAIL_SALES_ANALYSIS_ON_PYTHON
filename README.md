@@ -13,4 +13,13 @@ Retail Sales: $2.16M
 Retail Transfers: $2.13M
 Warehouse Sales: $7.78M
 Data Anomalies: 716 entries had negative warehouse sales, likely due to returns or adjustments.
+# Dataset Overview
+Column	Description
+Year, Month	Time-based sales records
+Supplier	Company supplying the products
+Item Code & Description	Identifies the product
+Item Type	Category (Wine, Liquor, Beer, etc.)
+Retail Sales	Sales directly to consumers
+Retail Transfers	Internal inventory movement
+Warehouse Sales	Bulk transactions
 
