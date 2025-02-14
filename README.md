@@ -6,15 +6,19 @@ This project explores sales performance and inventory transactions across retail
 - <a href="https://github.com/Ekenemike/WAREHOUSE_AND_RETAIL_SALES_ANALYSIS_ON_PYTHON/blob/main/Warehouse_and_Retail_Sales.csv.zip">Dataset</a>
 # Key EDA Questions
 During this analysis, the following questions were asked and answered:
-What does the dataset look like?
+1. What does the dataset look like?
 Used .head(), .info(), .describe(), .shape() to inspect data structure.
-Are there missing values?
+
+2. Are there missing values?
 Found missing values in the "SUPPLIER" column, replaced with "Unknown".
-Are there negative sales values?
+
+3. Are there negative sales values?
 716 entries in the warehouse sales column were negative, indicating returns or adjustments.
-Who are the top suppliers?
+   
+4. Who are the top suppliers?
 Identified most frequent suppliers using value_counts().
-What are the most common item types?
+
+5. What are the most common item types?
 Examined item category distribution (Wine, Liquor, Beer, etc.).
 What are the total sales by category?
 Summed up retail sales, transfers, and warehouse sales.
