@@ -22,12 +22,16 @@ Identified most frequent suppliers using value_counts().
 Examined item category distribution (Wine, Liquor, Beer, etc.).
 What are the total sales by category?
 Summed up retail sales, transfers, and warehouse sales.
+
 How do sales vary by month?
 Used groupby(['YEAR', 'MONTH']) to analyze sales trends.
+
 What’s the distribution of retail sales?
 Created a histogram to visualize sales frequency (found right-skewed distribution).
+
 What’s the correlation between sales metrics?
 Used heatmap to check relationships (found strong correlation between retail sales & transfers).
+
 # Key Findings
 Top Supplier: 🏆 Republic National Distributing Co.
 Most Sold Product Type: 🍷 Wine (61.0%) followed by 🥃 Liquor (21.8%).
